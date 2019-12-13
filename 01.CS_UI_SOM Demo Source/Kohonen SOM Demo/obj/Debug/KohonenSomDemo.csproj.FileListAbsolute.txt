@@ -1,0 +1,9 @@
+C:\Users\jashliao\Desktop\SOM Demo Source\Kohonen SOM Demo\bin\Debug\Kohonen SOM Demo.exe
+C:\Users\jashliao\Desktop\SOM Demo Source\Kohonen SOM Demo\bin\Debug\Kohonen SOM Demo.pdb
+C:\Users\jashliao\Desktop\SOM Demo Source\Kohonen SOM Demo\bin\Debug\NeuronDotNet.Core.dll
+C:\Users\jashliao\Desktop\SOM Demo Source\Kohonen SOM Demo\bin\Debug\ZedGraph.dll
+C:\Users\jashliao\Desktop\SOM Demo Source\Kohonen SOM Demo\bin\Debug\NeuronDotNet.Core.xml
+C:\Users\jashliao\Desktop\SOM Demo Source\Kohonen SOM Demo\bin\Debug\ZedGraph.xml
+C:\Users\jashliao\Desktop\SOM Demo Source\Kohonen SOM Demo\obj\Debug\KohonenSomDemo.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\SOM Demo Source\Kohonen SOM Demo\obj\Debug\Kohonen SOM Demo.exe
+C:\Users\jashliao\Desktop\SOM Demo Source\Kohonen SOM Demo\obj\Debug\Kohonen SOM Demo.pdb
